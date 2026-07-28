@@ -3,7 +3,7 @@
 # "NextOs-Ports/.github" para valer como padrão em TODOS os repos).
 # Preencher/descomentar conforme as contas forem criadas:
 
-# github: NextOs-Ports          # só depois que o GitHub Sponsors for aprovado
+github: NextOs-Ports
 # ko_fi: SEU_USUARIO_KOFI
 # custom:
 #   - "https://paypal.me/SEU_LINK"
