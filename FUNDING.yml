@@ -5,6 +5,6 @@
 
 github: NextOs-Ports
 ko_fi: nextos
-# custom:
-#   - "https://paypal.me/SEU_LINK"
-#   - "https://livepix.gg/SEU_LINK"   # PIX
+custom:
+  - "https://livepix.gg/nextos"   # PIX
+# (PayPal.Me não existe pra conta BR; doação via PayPal entra pelo Ko-fi)
